@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Shahir
 
-<!--
-**shahirizal/shahirizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate developer focused on building impactful software solutions and continuously learning new technologies. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, Python, HTML/CSS
+* **Frameworks/Libraries:** React, Node.js
+* **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahirizal&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahirizal&layout=compact&theme=dark)
+
+---
+
+### 🎯 Current Focus
+- 🔭 **I’m currently working on:** Expanding my portfolio with real-world applications.
+- 🌱 **I’m currently learning:** Advanced backend development and cloud architecture.
+- 🤝 **I’m looking to collaborate on:** Open-source projects and innovative web apps.
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [Your Name](https://linkedin.com/in/your-username)
+* **Email:** your.email@example.com
+
+⚡ **Fun Fact:** I love solving complex puzzles and optimizing code for efficiency!
