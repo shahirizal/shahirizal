@@ -26,7 +26,7 @@ I am a passionate developer focused on building impactful software solutions and
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Muhammad Shahir](https://linkedin.com/in/shahir-rizal)
-* **Email:** shahirrizal9.email@example.com
+* **LinkedIn:** [Muhammad Shahir](ww.linkedin.com/in/shahir-rizal-418876384)
+* **Email:** shahirrizal9@gmail.com.com
 
 ⚡ **Fun Fact:** I love solving complex puzzles and optimizing code for efficiency!
